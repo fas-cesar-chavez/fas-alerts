@@ -88,7 +88,11 @@ body{
     padding: 13.3px;
     display: inline-block;
   }
-  
+  #pathway_clear{
+    background-image: url("https://imgur.com/sgaFvLZ");
+
+
+  }
   
   footer{
     text-align:center;
